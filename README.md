@@ -1,1 +1,1 @@
-Example of a break statement in a Python for loop.
+Contains a Python break statement and a while loop.
